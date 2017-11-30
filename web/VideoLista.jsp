@@ -28,10 +28,10 @@
                         <label for="btn_Menu"> <img class="icon"  src="ui/Imagenes/menu-icon.png"></label>
                         <nav class="MenuCss">
                             <ul>
-                                <li><a href="index.jsp"><span class="uno"><img class="icon" src="ui/Imagenes/icon1.png" /></span>Inicio</a></li>
-                                <li><a href="SquemaIndex.jsp"><span class="dos"><img class="icon" src="ui/Imagenes/Esquema.png" /> </span>Squemas</a></li>
-                                <li><a href=""><span class="tres"><img class="icon" src="ui/Imagenes/Database-Table-icon.png" /> </span>Tablas</a></li>
-                                <li><a href=""><span class="cuatro"><img class="icon" src="ui/Imagenes/Columna.png" /> </span>Columnas</a></li>
+                                <li><a href="Videolista.jsp"><span class="uno"><img class="icon" src="ui/Imagenes/icon1.png" /></span>Inicio</a></li>
+                                <li><a href="Videolista.jsp"><span class="dos"><img class="icon" src="ui/Imagenes/Esquema.png" /> </span>series</a></li>
+                                <li><a href="Videolista.jsp"><span class="tres"><img class="icon" src="ui/Imagenes/Database-Table-icon.png" /> </span>peliculas</a></li>
+                                <li><a href="Videolista.jsp"><span class="cuatro"><img class="icon" src="ui/Imagenes/Columna.png" /> </span>documentales</a></li>
                             </ul>
                         </nav>
                     </header>                
